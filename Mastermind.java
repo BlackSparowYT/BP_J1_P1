@@ -1,4 +1,4 @@
-package mastermind;
+package BP_J1_P1;
 import java.util.Random;
 import java.util.Scanner;
 
